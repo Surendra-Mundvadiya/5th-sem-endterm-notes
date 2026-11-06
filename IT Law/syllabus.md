@@ -37,14 +37,14 @@
 - Rights of Data Subjects: Right of access, rectification, erasure ("right to be forgotten"), and data portability
 - Cross-border data transfers and standard contractual clauses
 
-### Module 6: Digital Personal Data Protection Act, 2023 & Rules 2025
-- Scope, applicability, and grounds of processing
-- Data Principal Rights and Duties
-- Data Fiduciary and Significant Data Fiduciary obligations
-- Processing of children's and persons with disabilities' data
-- Cross-border transfer regime (Blacklisting/Whitelisting framework)
-- Data Protection Board of India (DPBI) and penalty structures
-- Digital Personal Data Protection Rules, 2025
+### Module 6: Digital Personal Data Protection Act 2023
+- Digital Personal Data Protection Act 2023
+- Scope of the law
+- Select definitions
+- Obligations of data fiduciary
+- Rights of data principal
+- Transfer of data to outside India
+- Digital Personal Data Protection Rules 2025
 
 ### Module 7: Cyber Contraventions & Cyber Crimes
 - Civil Contraventions and Adjudication (Section 43 & Section 43A)
