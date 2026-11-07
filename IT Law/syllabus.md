@@ -107,9 +107,6 @@
   - *Schrems v. Data Protection Commissioner* (Schrems I & II — Cross-border data transfers)
   - *Data Protection Commissioner v. Facebook Ireland*
   - *Big Brother Watch and Others v. United Kingdom* (ECtHR 2018/2021) (Bulk interception and privacy rights)
-- **Intermediary Liability (Mid-Term Reference):** *Super Cassettes Industries v. MySpace Inc.*; *Swami Ramdev v. Facebook Inc.*; *Amazon Seller Services v. Modicare Ltd.*; *Christian Louboutin v. Nakul Bajaj*; *Flipkart Internet v. State of NCT of Delhi*; *Neetu Singh v. Telegram*; *Indiamart Intermesh v. Puma SE*.
-- **Free Speech & Cyber-Obscenity (Mid-Term Reference):** *Shreya Singhal v. Union of India*; *Arnab Ranjan Goswami v. UOI*; *Kunal Kamra v. UOI*; *Mohammed Zubair v. State of NCT of Delhi*; *Ekta Kapoor v. State of M.P.*; *Apoorva Arora v. State*; *Just Rights for Children Alliance v. S. Harish*.
-
 ---
 
 ## Select References
