@@ -11,57 +11,47 @@ The objective of the course is to harness skills for development of management r
 
 ---
 
-## 1. Definitions, Concepts, and Context
-- **Introduction to Intellectual Property Management (IPM)**: Definitions, fundamentals, and strategic significance
-- **Paradigm Shift**: Transition from static legal "intellectual property" to dynamic "intellectual capital"
-- **IP Culture & Metrics**: Measuring IP culture and asset value across organizations
+## Detailed Course Syllabus (End-Term)
 
----
+### 1. Measuring and Extracting Value
+- The importance of measuring intangible assets: Public Policy and its implications
+- Intellectual Capital Accounting as a Management Tool
+- Extracting Profits from intellectual Capital – Policy and practice
+- Intellectual Capital Measurement for Start-ups
+- The IP portfolio as competitive tool
+- The role of intellectual asset manager
 
-## 2. Intellectual Capital & Knowledge Economy
-- **IP as Intellectual Capital**: Strategic role of IP in competing knowledge economies
-- **Economic Growth**: Ideas and IPR in determining corporate valuation and growth
-- **Non-Proprietary Technologies**: Role of open standards and non-proprietary models
-- **IP Policy Frameworks**: Top-down vs. bottom-up policy design for universities, corporations, and R&D centers
-- **Portfolio Strategy**: Local and global IP portfolio creation
-- **Identification & Evaluation**: Identifying patents, trade secrets, trademarks, and copyrights; evaluating organizational and market fit
-- **Protection Checklists**: Tailored IP protection strategies across diverse technology sectors
-- **Collisions**: Interplay and conflict between trademark rights and domain names
-- **Profiting from Innovation**: Collaboration, integration, licensing, and public policy implications
+### 2. Portfolio Management
+- IP category and protection strategy
+  - IP categorization – business, technical and legal
+- IP evaluation and valuation
+  - IP value index
+  - Models – Empirical and option
+- Measuring and monitoring intellectual capital
+- Understanding and managing knowledge assets for competitive advantage in innovation and product development
+- Patent stocks and Copyright collective
+- The role of intellectual capital in valuing knowledge companies
 
----
+### 3. Innovation and IP Protection
+- Innovation and Market relation
+- Types of innovation (Radical, disruptive, sustainable, incremental)
+- Open Innovation – Models
+- Open Innovation and IP
+- Patent databases: Important source of IPM
 
-## 3. Measuring and Extracting Value
-- **Intangible Assets**: Public policy and organizational significance of measuring intangibles
-- **Intellectual Capital Accounting**: Tools and practices for corporate management
-- **Profit Extraction**: Monetization mechanisms, licensing royalties, and startup IP valuation
-- **Competitive Advantage**: IP portfolios as market barriers and competitive instruments
-- **Role of the Intellectual Asset Manager**
+### 4. IP Due Diligence
+- Drafting a license agreement (factors that need consideration)
 
----
+### 5. IP Valuation and Finance
+- Methods of IP valuation – NPV calculations, Benchmarking, discounted type
+- Patent stocks
+- IP as collateral
 
-## 4. Portfolio Management
-- **IP Categorization**: Technical, business, and legal categorization models
-- **Evaluation & Valuation**: Empirical models, option-based pricing, and IP value indices
-- **Knowledge Asset Tracking**: Managing knowledge assets for sustainable innovation
-- **Patent Stocks & Collective Management**: Patent pooling, copyright collectives, and knowledge firm valuation
+### 6. IP Audit
+- IP Audit
 
----
-
-## 5. Innovation & IP Protection
-- **Market Relations**: Radical, disruptive, sustainable, and incremental innovation
-- **Open Innovation Models**: Inbound vs outbound open innovation; managing IP in open frameworks
-- **Patent Databases**: Patent landscaping, analytics, and competitive intelligence tools
-
----
-
-## 6. IP Due Diligence, Licensing & Finance
-- **Due Diligence**: IP due diligence checklists in M&A, joint ventures, and funding rounds
-- **License Agreement Drafting**: Essential clauses, grant of rights, royalties, warranties, indemnification, and dispute resolution
-- **IP Valuation & Financing**: NPV calculations, market benchmarking, discounted cash flow (DCF), IP as collateral
-- **Commercialization**: Models and transfer mechanics
-- **IP Audits**: Types, procedures, and implementation checklists
-- **IP Taxation**: Tax treatment of royalties, capital gains on IP transfer, and R&D incentives
+### 7. IP Taxation
+- IP Taxation
 
 ---
 
