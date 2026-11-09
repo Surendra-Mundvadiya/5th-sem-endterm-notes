@@ -14,4 +14,4 @@ Curated notes, syllabi, and reference materials for 5th Semester LLB.
 - [Taxation Law](Taxation%20Law)
 
 ## Format Guidelines
-- Notes and study documents are provided in **PDF (`.pdf`)** and **Markdown (`.md`)** formats for cross-platform readability and clean version tracking.
+- Subject notes are provided exclusively in **PDF (`.pdf`)** format.
